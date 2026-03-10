@@ -559,7 +559,7 @@ function Onboarding({onSetup,onEnter}){
       minHeight:"55vh",textAlign:"center",padding:"40px 20px"}}>
       <div className="serif shimmer" style={{fontSize:52,marginBottom:16}}>🥁</div>
       <div className="serif" style={{fontSize:28,color:B.granite,marginBottom:10,fontWeight:400}}>
-        Welcome, Zach.
+        Welcome.
       </div>
       <div style={{fontSize:15,color:B.textMid,maxWidth:360,lineHeight:1.7,marginBottom:32}}>
         Set your persistent details first — drummer, album, practice regime — then enter your first week.
